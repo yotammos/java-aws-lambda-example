@@ -1,6 +1,6 @@
 # Java-AWS-Lambda-example
 
-A simple example of a AWS Lambda function using Java.
+A simple example of an AWS Lambda function using Java.
 
 <h2>Build</h2>
 <code>gradle buildZip</code>
